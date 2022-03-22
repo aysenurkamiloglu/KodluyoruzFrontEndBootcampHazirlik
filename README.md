@@ -1,0 +1,1 @@
+Kodluyoruz ekibinin gerçekleştireceği 2022 web geliştirme bootcampleri kapsamında Bursa Front-End Bootcamp'ine başvuru yaptığım için Hazırlık aşamasına dahil oldum. Burada Hazırlık aşamasında verilen ödevlerin paylaşımını yapacağım.
